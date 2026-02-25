@@ -1,5 +1,5 @@
 {
-  "phabricator.uri": "https://we.phorge.it/",
+  "phabricator.uri": "https://issues.recaptime.dev/",
   "load": ["src/"],
   "history.immutable": false
 }
